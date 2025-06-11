@@ -1,12 +1,21 @@
-## Hi there 👋
+# ふらりこ
 
-<!--
+## ふらりこ
 
-**Here are some ideas to get you started:**
+- [furarico-ios](https://github.com/furarico/furarico-ios)
+- [furarico-web](https://github.com/furarico/furarico-web)
+- [furarico-portal-ios](https://github.com/furarico/furarico-poratal-ios)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Vibe Cooking
+
+- [vibe-cooking-web](https://github.com/kantacky/vibe-cooking-web)
+- [vibe-cooking-api](https://github.com/furarico/vibe-cooking-api)
+- [vibe-cooking-recipe-manager](https://github.com/kantacky/vibe-cooking-recipe-manager)
+
+# Remo Room
+
+- [remoroom-ios](https://github.com/remoroom/remoroom-ios)
+- [remoroom-web](https://github.com/remoroom/remoroom-web)
+- [remoroom-api](https://github.com/remoroom/remoroom-api)
+
+&copy; 2025 furari.co
