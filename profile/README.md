@@ -1,5 +1,7 @@
 # ふらりこ
 
+[About ふらりこ](https://furari.co)
+
 ## ふらりこ
 
 - [furarico-ios](https://github.com/furarico/furarico-ios)
