@@ -10,14 +10,14 @@
 
 # Vibe Cooking
 
-- [vibe-cooking-web](https://github.com/kantacky/vibe-cooking-web)
+- [vibe-cooking-web](https://github.com/furarico/vibe-cooking-web)
 - [vibe-cooking-api](https://github.com/furarico/vibe-cooking-api)
-- [vibe-cooking-recipe-manager](https://github.com/kantacky/vibe-cooking-recipe-manager)
+- [vibe-cooking-admin](https://github.com/furarico/vibe-cooking-admin)
 
 # Remo Room
 
-- [remoroom-ios](https://github.com/remoroom/remoroom-ios)
-- [remoroom-web](https://github.com/remoroom/remoroom-web)
-- [remoroom-api](https://github.com/remoroom/remoroom-api)
+- [remoroom-ios](https://github.com/furarico/remoroom-ios)
+- [remoroom-web](https://github.com/furarico/remoroom-web)
+- [remoroom-api](https://github.com/furarico/remoroom-api)
 
 &copy; 2025 furari.co
