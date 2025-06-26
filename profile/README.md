@@ -13,11 +13,13 @@
 - [vibe-cooking-web](https://github.com/furarico/vibe-cooking-web)
 - [vibe-cooking-admin](https://github.com/furarico/vibe-cooking-admin)
 - [vibe-cooking-api-docs](https://github.com/furarico/vibe-cooking-api-docs)
+- [vibe-cooking-ios](https://github.com/furarico/vibe-cooking-ios)
 
 ## あとまわしリンク
 
 - [dolater-ios](https://github.com/furarico/dolater-ios)
 - [dolater-api](https://github.com/furarico/dolater-api)
+- [dolater-internal-api](https://github.com/furarico/dolater-internal-api)
 - [dolater-api-docs](https://github.com/furarico/dolater-api-docs)
 
 ## Remo Room
