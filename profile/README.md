@@ -6,7 +6,7 @@
 
 - [furarico-ios](https://github.com/furarico/furarico-ios)
 - [furarico-web](https://github.com/furarico/furarico-web)
-- [furarico-portal-ios](https://github.com/furarico/furarico-poratal-ios)
+- [furarico-portal-ios](https://github.com/furarico/furarico-portal-ios)
 
 ## STRAY-IT
 
