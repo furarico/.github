@@ -37,4 +37,17 @@
 - [remoroom-api-docs](https://github.com/furarico/remoroom-api-docs)
 - [remoroom-ios-certificates](https://github.com/furarico/remoroom-ios-certificates)
 
+## POS
+
+- [furaripos-store-ios](https://github.com/furarico/furaripos-store-ios)
+- [furaripos-mobile-order-web](https://github.com/furarico/furaripos-mobile-order-web)
+- [furaripos-store-bff](https://github.com/furarico/furaripos-store-bff)
+- [furaripos-mobile-order-bff](https://github.com/furarico/furaripos-mobile-order-bff)
+- [furaripos-product-api](https://github.com/furarico/furaripos-product-api)
+- [furaripos-order-api](https://github.com/furarico/furaripos-order-api)
+- [furaripos-apis](https://github.com/furarico/furaripos-apis)
+  - [furaripos-apis-go](https://github.com/furarico/furaripos-apis-go)
+  - [furaripos-apis-swift](https://github.com/furarico/furaripos-apis-swift)
+  - [furaripos-apis-ts](https://github.com/furarico/furaripos-apis-ts)
+
 &copy; 2025 furari.co
