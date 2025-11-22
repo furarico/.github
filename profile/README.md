@@ -27,6 +27,5 @@
 - [dolater-internal-api](https://github.com/furarico/dolater-internal-api)
 - [dolater-api-docs](https://github.com/furarico/dolater-api-docs)
 - [dolater-web](https://github.com/furarico/dolater-web)
-- [dolater-ios-certificates](https://github.com/furarico/dolater-ios-certificates)
 
 &copy; 2025 furari.co
