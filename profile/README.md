@@ -8,17 +8,17 @@
 - [furarico-web](https://github.com/furarico/furarico-web)
 - [furarico-portal-ios](https://github.com/furarico/furarico-portal-ios)
 
+## Vibe Cooking
+
+- [vibe-cooking-ios](https://github.com/furarico/vibe-cooking-ios)
+- [vibe-cooking-admin](https://github.com/furarico/vibe-cooking-admin)
+- [vibe-cooking-api-docs](https://github.com/furarico/vibe-cooking-api-docs)
+- [vibe-cooking-recipe-api](https://github.com/furarico/vibe-cooking-recipe-api)
+
 ## STRAY-IT
 
 - [strayit-ios](https://github.com/furarico/strayit-ios)
 - [strayit-web](https://github.com/furarico/strayit-web)
-
-## Vibe Cooking
-
-- [vibe-cooking-web](https://github.com/furarico/vibe-cooking-web)
-- [vibe-cooking-admin](https://github.com/furarico/vibe-cooking-admin)
-- [vibe-cooking-ios](https://github.com/furarico/vibe-cooking-ios)
-- [vibe-cooking-api-docs](https://github.com/furarico/vibe-cooking-api-docs)
 
 ## あとまわしリンク
 
