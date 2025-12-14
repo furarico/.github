@@ -17,6 +17,7 @@
 
 ## OctoDeck
 
+- [GitHub Projects](https://github.com/orgs/furarico/projects/8)
 - [octo-deck-ios](https://github.com/furarico/octo-deck-ios)
 - [octo-deck-api](https://github.com/furarico/octo-deck-api)
 - [octo-deck-typespec](https://github.com/furarico/octo-deck-typespec)
