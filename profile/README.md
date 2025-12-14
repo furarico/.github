@@ -15,6 +15,12 @@
 - [vibe-cooking-api-docs](https://github.com/furarico/vibe-cooking-api-docs)
 - [vibe-cooking-recipe-api](https://github.com/furarico/vibe-cooking-recipe-api)
 
+## OctoDeck
+
+- [octo-deck-ios](https://github.com/furarico/octo-deck-ios)
+- [octo-deck-api](https://github.com/furarico/octo-deck-api)
+- [octo-deck-typespec](https://github.com/furarico/octo-deck-typespec)
+
 ## STRAY-IT
 
 - [strayit-ios](https://github.com/furarico/strayit-ios)
